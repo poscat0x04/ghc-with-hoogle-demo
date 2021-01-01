@@ -1,0 +1,6 @@
+cradle:
+  cabal:
+    - path: "./src"
+      component: "lib:ghc-with-hoogle-demo"
+    - path: "./test"
+      component: "test:ghc-with-hoogle-demo-test"
